@@ -45,9 +45,6 @@ while True:
     
 
 
-# In[4]:
-
-
 import cv2
 import mediapipe as mp
 import time

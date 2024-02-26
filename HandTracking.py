@@ -87,9 +87,6 @@ while True:
     
 
 
-# In[2]:
-
-
 import cv2
 cap=cv2.VideoCapture(0)
 sucess, img=cap.read()

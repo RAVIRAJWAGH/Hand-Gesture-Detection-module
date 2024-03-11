@@ -94,8 +94,6 @@ print(img)
 imgRGB=cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
 
 
-# In[2]:
-
 
 cap.release()
 cv2.destroyAllWindows()
